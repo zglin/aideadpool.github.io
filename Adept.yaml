@@ -1,0 +1,21 @@
+- company: "Adept"
+  date: "2024-10-23"
+  announcement: |
+    Adept, a startup developing AI-powered “agents” to complete various software-based tasks, has agreed to license its tech to Amazon. 
+    The startup’s co-founders and portions of its team have joined the e-commerce giant. GeekWire’s Taylor Soper first reported the news.
+
+    Adept co-founder and CEO David Luan will join Amazon, along with co-founders Augustus Odena, Maxwell Nye, Erich Elsen, Kelsey Szot, and other employees. 
+    Adept is not shutting down; Zach Brock, head of engineering, will become CEO as the company refocuses on "solutions that enable agentic AI."
+
+  funding:
+    amount: 415_000_000
+    currency: "USD"
+    valuation: 1_000_000_000
+    investors:
+      - "Nvidia"
+      - "Atlassian"
+      - "Workday"
+      - "Greylock"
+  source:
+    - https://techcrunch.com/2024/06/28/amazon-hires-founders-away-from-ai-startup-adept/
+    - https://www.adept.ai/blog/adept-update
