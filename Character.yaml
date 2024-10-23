@@ -1,0 +1,18 @@
+company: "Character.AI"
+date: "2024-08-05"
+announcement: |
+  Google stunned Silicon Valley on Friday by kinda/sorta acquiring Character.AI, a personalized chatbot developer that last year secured $150 million in Series A funding at a $1 billion valuation.
+
+funding:
+  amount: 150_000_000
+  currency: "USD"
+  valuation: 1_000_000_000
+  investors:
+    - "Andreessen Horowitz"
+  exit:
+    acquirer: "Google"
+    valuation: 2_500_000_000
+    
+source:
+  - "https://www.axios.com/2024/08/05/google-characterai-venture-capital"
+  - "https://blog.character.ai/our-next-phase-of-growth/"
