@@ -1,0 +1,27 @@
+company: "OctoAI"
+date: "2024-10-23"
+announcement: |
+  OctoAI, a Seattle software startup that sells tools to help build and run generative AI models more efficiently, has been acquired by chip giant Nvidia. 
+
+funding:
+  total_raised: 132000000
+  currency: "USD"
+  latest_round: 
+    amount: 85000000
+    year: 2021
+    valuation: 900000000
+  investors:
+    - "Tiger Global Management"
+    - "Addition"
+    - "Madrona Venture Group"
+    - "Amplify Partners"
+exit:
+  acquirer: "Nvidia"
+  acquisition_amount: 
+    base: 165000000
+    potential_total: 250000000
+  date_effective: "2024-10-31"
+  
+source:
+  - https://www.geekwire.com/2024/chip-giant-nvidia-acquires-octoai-a-seattle-startup-that-helps-companies-run-ai-models/
+  
